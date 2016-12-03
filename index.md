@@ -4,7 +4,7 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# jenny61127
+# Jenny Chen
 
 A Nintendo Character
 
